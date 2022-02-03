@@ -4,4 +4,4 @@ I'm Ann.
 - 🙋‍♀️ &nbsp; she/her
 - 📫 &nbsp; ann.nguyen.codes@gmail.com
 - 🕸️ &nbsp; [annCodes.com](http://anncodes.com) (infinite loop!)
-- 💻 &nbsp; currently working as a SWE in FinTech
+- 💻 &nbsp; currently working as a SWE doing FE stuff in FinTech
